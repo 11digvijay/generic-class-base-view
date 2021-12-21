@@ -1,0 +1,1 @@
+# generic-class-base-view
